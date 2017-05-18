@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="index" class="container">
+		<ScrollableView id="sclbViewPages">
+        </ScrollableView>
+	</Window>
+</Alloy>
